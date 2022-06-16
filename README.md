@@ -6,7 +6,7 @@
 
 Generates a random password based on user criteria.
 
-
+https://jq67.github.io/Javascript---Password-Generator/
 
 ### Successes and Failures
 
@@ -34,7 +34,7 @@ HTML and Javascript
 ### Installation Instructions
 
 ```md
-No installation necessary.
+No installation necessary. Visit https://jq67.github.io/Javascript---Password-Generator/
 ```
 
 ## Usage
